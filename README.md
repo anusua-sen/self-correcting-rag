@@ -106,13 +106,9 @@ This project demonstrates a practical solution to one of the biggest real-world 
 
 \- *Answer-Type Enforcement*
 
-\- *Strict Year Validation*
-
-\- *Claim-Level Explainability*
-
 \- *Built for Real News Articles*
 
-\-\*Designed for Hallucination Detection Research*
+\- *Designed for Hallucination Detection Research*
 
 
 
