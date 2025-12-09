@@ -100,23 +100,23 @@ This project demonstrates a practical solution to one of the biggest real-world 
 
 
 
-\- Fully *Open-Source & Local** (No OpenAI or paid APIs)
+\- Fully *Open-Source & Local* (No OpenAI or paid APIs)
 
-\- *Self-Correcting Fact-Checking Layer**
+\- *Self-Correcting Fact-Checking Layer*
 
-\- \*\*Answer-Type Enforcement\*\*
+\- *Answer-Type Enforcement*
 
-\- \*\*Strict Year Validation\*\*
+\- *Strict Year Validation*
 
-\- \*\*Claim-Level Explainability\*\*
+\- *Claim-Level Explainability*
 
-\- \*\*Built for Real News Articles\*\*
+\- *Built for Real News Articles*
 
-\- \*\*Designed for Hallucination Detection Research\*\*
+\-\*Designed for Hallucination Detection Research*
 
 
 
-\## ⚠️ Current Limitations
+⚠️ Current Limitations
 
 
 
