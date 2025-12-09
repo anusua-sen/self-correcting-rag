@@ -1,4 +1,4 @@
-**\ Self-Correcting RAG Pipeline**
+**Self-Correcting RAG Pipeline**
 
 
 
@@ -16,7 +16,7 @@ This project demonstrates a practical solution to one of the biggest real-world 
 
 
 
-\## 🔧 How It Works (Pipeline Flow)
+🔧 How It Works (Pipeline Flow)
 
 
 
