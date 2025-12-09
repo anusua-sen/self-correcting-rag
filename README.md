@@ -100,9 +100,9 @@ This project demonstrates a practical solution to one of the biggest real-world 
 
 
 
-\- Fully **Open-Source \& Local\** (No OpenAI or paid APIs)
+\- Fully *Open-Source & Local** (No OpenAI or paid APIs)
 
-\- **Self-Correcting Fact-Checking Layer\**
+\- *Self-Correcting Fact-Checking Layer**
 
 \- \*\*Answer-Type Enforcement\*\*
 
