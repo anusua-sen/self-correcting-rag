@@ -20,7 +20,7 @@ This project demonstrates a practical solution to one of the biggest real-world 
 
 
 
-1\. \*\*Ingestion\*\*
+1\. **Ingestion**
 
 &nbsp;  - News articles are loaded from the CC-News dataset.
 
@@ -28,7 +28,7 @@ This project demonstrates a practical solution to one of the biggest real-world 
 
 
 
-2\. \*\*Indexing\*\*
+2\. **Indexing**
 
 &nbsp;  - Text is converted into embeddings using SentenceTransformers.
 
@@ -36,13 +36,13 @@ This project demonstrates a practical solution to one of the biggest real-world 
 
 
 
-3\. \*\*Retrieval\*\*
+3\. **Retrieval**
 
 &nbsp;  - For each query, the most relevant document chunks are retrieved.
 
 
 
-4\. \*\*Relevance + Date Filtering\*\*
+4\. **Relevance + Date Filtering**
 
 &nbsp;  - Low-relevance documents are removed.
 
@@ -50,13 +50,13 @@ This project demonstrates a practical solution to one of the biggest real-world 
 
 
 
-5\. \*\*Answer Generation\*\*
+5\. **Answer Generation**
 
 &nbsp;  - A fully local LLM (Flan-T5) generates answers using only retrieved documents.
 
 
 
-6\. \*\*Fact Checking (MNLI + Extractive QA)\*\*
+6\. **Fact Checking (MNLI + Extractive QA)**
 
 &nbsp;  - The answer is split into claims.
 
@@ -70,7 +70,7 @@ This project demonstrates a practical solution to one of the biggest real-world 
 
 
 
-7\. \*\*Hard Safety Validation\*\*
+7\. **Hard Safety Validation**
 
 &nbsp;  The answer is REJECTED if:
 
@@ -82,7 +82,7 @@ This project demonstrates a practical solution to one of the biggest real-world 
 
 
 
-8\. \*\*Final Output\*\*
+8\. **Final Output**
 
 &nbsp;  - Outputs are labeled as:
 
@@ -96,13 +96,13 @@ This project demonstrates a practical solution to one of the biggest real-world 
 
 
 
-\## ✅ Key Features
+\ ✅ Key Features
 
 
 
 \- Fully \*\*Open-Source \& Local\*\* (No OpenAI or paid APIs)
 
-\- \*\*Self-Correcting Fact-Checking Layer\*\*
+\- **Self-Correcting Fact-Checking Layer*\*
 
 \- \*\*Answer-Type Enforcement\*\*
 
