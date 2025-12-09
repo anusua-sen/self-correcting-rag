@@ -1,4 +1,4 @@
-\# Self-Correcting RAG Pipeline with Autonomous Fact-Checking
+**\ Self-Correcting RAG Pipeline**
 
 
 
